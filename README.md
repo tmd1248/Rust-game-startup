@@ -5,7 +5,7 @@ This small program is the beginning setup of an iterated rock-paper-scissors sty
 The primary purpose of this program in particular is to see how the rust language works and how it's able to handle temporary data storage 
 and tracking information. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/QdO7ZMCvGfM)
 
 # Development Environment
 
